@@ -55,6 +55,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=003140)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&color=003140)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&color=003140)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&color=003140)
 
 
 <div align='center'><h3>Github Streaks</h3></div>
