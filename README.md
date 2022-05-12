@@ -45,6 +45,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=7248B6&color=003140)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb&color=003140)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql&color=003140)
+![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=graphql&logoColor=E30090&color=003140)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&color=003140)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django&color=003140)
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot&color=003140)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=003140)
