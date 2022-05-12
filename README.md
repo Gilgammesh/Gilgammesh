@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
 <div align='center'>
@@ -45,5 +45,5 @@
 ### Github Streaks
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilgammesh&hide_border=true&stroke=0000&background=003140&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff" alt="Gilgammesh" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilgammesh&theme=black-ice&hide_border=true&stroke=0000&background=003140&ring=00B2DF&fire=00B2DF&currStreakLabel=00B2DF&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff" alt="Gilgammesh" />
 </p>
