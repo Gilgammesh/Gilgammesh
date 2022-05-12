@@ -25,12 +25,12 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&color=003140)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express&color=003140)
-![Nest](https://img.shields.io/badge/-Express-000?&logo=nestjs&logoColor=FF0008&color=003140)
+![Nest](https://img.shields.io/badge/-Nest-000?&logo=nestjs&logoColor=FF0008&color=E32743)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=003140)
-![Next.js](https://img.shields.io/badge/-Express-000?&logo=next.js&color=003140)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&color=003140)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React&color=003140)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&color=003140)
-![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron&color=003140)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=BD002E&color=003140)
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron&logoColor=00B2DF&color=003140)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=7248B6&color=003140)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb&color=003140)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql&color=003140)
@@ -39,6 +39,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=003140)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009137&color=003140)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=003140)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&color=003140)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&color=003140)
 
 
