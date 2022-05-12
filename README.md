@@ -21,9 +21,13 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Nest](https://img.shields.io/badge/-Express-000?&logo=nestjs&logoColor=FF0008)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Express-000?&logo=next.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=7248B6)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
@@ -34,4 +38,6 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilgammesh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Gilgammesh" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilgammesh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Gilgammesh" />
+</p>
