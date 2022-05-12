@@ -49,6 +49,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&color=003140)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django&color=003140)
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot&color=003140)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&color=003140)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=003140)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009137&color=003140)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=003140)
