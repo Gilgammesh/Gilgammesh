@@ -1,16 +1,36 @@
-### Hi there 👋
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gilgammesh&count_private=true&show_icons=true" />
 
-<!--
-**Gilgammesh/Gilgammesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0rp43us&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
-Here are some ideas to get you started:
+<p align='center'>
+    <img src="https://i.gifer.com/OSFi.gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages
+
+![](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+### Technologies
+
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+![Influxdb](https://img.shields.io/badge/-Influxdb-000?&logo=Influxdb)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
+
+
+
+<b>🔥 Github Streaks</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilgammesh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
