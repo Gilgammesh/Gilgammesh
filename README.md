@@ -2,28 +2,26 @@
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-<div align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=Gilgammesh&count_private=true&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gilgammesh&count_private=true&show_icons=true&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff&icon_color=FDFFE7" />
-  <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgammesh&count_private=true&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff&icon_color=FDFFE7" />
-</div>
-
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgammesh&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgammesh&count_private=true&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff&icon_color=FDFFE7" />
+</a>
 
 ### Languages
 
-![](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
 
 ### Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
-
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
