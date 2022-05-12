@@ -1,15 +1,18 @@
+<p align='center'><b>Passionate about technology</b></p>
+
 <p align='center'>
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
-<div align='center'>
+<p align='center'><b>Statistics</b></p>
+<p align='center'>
     <a href="https://github-readme-stats.vercel.app/api?username=Gilgammesh&count_private=true&show_icons=true">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gilgammesh&count_private=true&show_icons=true&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff&icon_color=FDFFE7" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgammesh&count_private=true">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgammesh&count_private=true&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff&icon_color=FDFFE7" />
     </a>
-</div>
+</p>
     
     
 ### Languages
@@ -25,7 +28,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&color=003140)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express&color=003140)
-![Nest](https://img.shields.io/badge/-Nest-000?&logo=nestjs&logoColor=FF0008&color=E32743)
+![Nest](https://img.shields.io/badge/-Nest-000?&logo=nestjs&logoColor=E32743&color=003140)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=003140)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&color=003140)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React&color=003140)
@@ -43,8 +46,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&color=003140)
 
 
-### Github Streaks
-
+<p align="center"><b>Github Streaks</b></p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilgammesh&theme=black-ice&hide_border=true&stroke=0000&background=003140&ring=00B2DF&fire=00B2DF&currStreakLabel=00B2DF&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff" alt="Gilgammesh" />
 </p>
