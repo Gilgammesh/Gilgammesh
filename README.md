@@ -1,6 +1,6 @@
-<p align='center'>
+<div align='center'>
         <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
+</div>
 <div align='center'>
         Hi, I'm Carlos Santander, a passionate self-taught full stack developer and freelance software engineer from Peru.
 </div>
