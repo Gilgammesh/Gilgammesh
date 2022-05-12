@@ -1,5 +1,7 @@
 <p align='center'>
-        Hi, I'm Carlos Santander (Gilgammesh), a passionate self-taught full stack developer and freelance software engineer from Peru. My passion for software lies in developing ideas and making them come true with elegant interfaces. I care a lot about the experience, architecture and code quality of the things I build.
+        Hi, I'm Carlos Santander, a passionate self-taught full stack developer and freelance software engineer from Peru. 
+        My passion for software lies in developing ideas and making them come true with elegant interfaces. 
+        I care a lot about the experience, architecture and code quality of the things I build.
 </p>
 <p align='center'>
         <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
