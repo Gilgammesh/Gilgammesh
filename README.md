@@ -1,16 +1,15 @@
-<div align='center'>
-        <b>Hi, I'm Carlos Santander, a passionate self-taught full stack developer and freelance software engineer from Peru.</b>
-</div>
-<div align='center'>
-        <b>My passion for software lies in developing ideas and making them come true with elegant interfaces.</b>
-</div>
-<div align='center'>        
-        <b>I care a lot about the experience, architecture and code quality of the things I build.</b>
-</div>
-
 <p align='center'>
         <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
+<div align='center'>
+        Hi, I'm Carlos Santander, a passionate self-taught full stack developer and freelance software engineer from Peru.
+</div>
+<div align='center'>
+        My passion for software lies in developing ideas and making them come true with elegant interfaces.
+</div>
+<div align='center'>        
+        I care a lot about the experience, architecture and code quality of the things I build.
+</div>
 
 
 <div align='center'><h2>Github Statistics</h2></div>
