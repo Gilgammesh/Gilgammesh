@@ -1,13 +1,11 @@
 <p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
+    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-<a href="">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=m0rp43us&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0rp43us&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+</div>
 
 
 ### Languages
