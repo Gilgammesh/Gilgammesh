@@ -22,7 +22,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![React](https://img.shields.io/badge/-React Native-000?&logo=React)
+![React Native](https://img.shields.io/badge/-ReactNative-000?&logo=React)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
