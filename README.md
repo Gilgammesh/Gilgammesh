@@ -1,17 +1,17 @@
-<div align='center' style='display: flex; flex-direction: row;'>
+<div align='center'>
     <div>
         Hi, I'm Carlos Santander (Gilgammesh), a passionate self-taught full stack developer and freelance software engineer from Peru. My passion for software lies in developing ideas and making them come true with elegant interfaces. I care a lot about the experience, architecture and code quality of the things I build.
     </div>
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-<div align='center'><h3>Statistics</h3></div>
-<p align='center'>    
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgammesh&count_private=true">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgammesh&count_private=true&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff&icon_color=FDFFE7" />
-    </a>
+<div align='center'><h2>Github Statistics</h2></div>
+<p align='center'>
     <a href="https://github-readme-stats.vercel.app/api?username=Gilgammesh&count_private=true&show_icons=true">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gilgammesh&count_private=true&show_icons=true&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff&icon_color=FDFFE7" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgammesh&count_private=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilgammesh&count_private=true&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff&icon_color=FDFFE7" />
     </a>
 </p>
     
