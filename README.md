@@ -1,12 +1,12 @@
-<p align='center'>
+<div align='center'>
         Hi, I'm Carlos Santander, a passionate self-taught full stack developer and freelance software engineer from Peru.
-</p>
-<p align='center'>
+</div>
+<div align='center'>
         My passion for software lies in developing ideas and making them come true with elegant interfaces.
-</p>
-<p align='center'>        
+</div>
+<div align='center'>        
         I care a lot about the experience, architecture and code quality of the things I build.
-</p>
+</div>
 <p align='center'>
         <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
