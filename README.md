@@ -37,7 +37,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 
-
+### Github Streaks
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilgammesh&hide_border=true&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Gilgammesh" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilgammesh&hide_border=true&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff" alt="Gilgammesh" />
 </p>
