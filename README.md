@@ -60,5 +60,5 @@
 
 <div align='center'><h3>Github Streaks</h3></div>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilgammesh&theme=black-ice&hide_border=true&stroke=0000&background=003140&ring=00B2DF&fire=F9C821&currStreakLabel=00B2DF&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff" alt="Gilgammesh" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilgammesh&theme=black-ice&hide_border=true&stroke=0000&background=003140&ring=00B2DF&fire=FF9200&currStreakLabel=00B2DF&bg_color=30,028BAE,003140&title_color=FDFFE7&text_color=fff" alt="Gilgammesh" />
 </p>
