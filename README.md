@@ -2,7 +2,7 @@
         <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 <div align='center'>
-        👋 Hi, <b>I'm Carlos Santander</b>, a passionate self-taught full stack developer and freelance software engineer from Peru.
+        👋 Hi, <b>I'm Carlos Santander</b>, a passionate self-taught full stack developer freelance and cloud engineer from Peru.
 </div>
 <div align='center'>
         My passion for software lies in developing ideas and making them come true with elegant interfaces.
