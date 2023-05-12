@@ -55,8 +55,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=003140)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&color=003140)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoft-azure&color=003140&logoColor=006CFF)
-![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-000?&logo=microsoft-azure&color=003140&logoColor=006CFF)
+![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-000?&logo=azuredevops&color=003140&logoColor=006CFF)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&color=003140&logoColor=FFA800)
+![AWS DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=amazondynamodb&color=003140&logoColor=red)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&color=003140)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&color=003140)
 
