@@ -28,9 +28,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=003140)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&color=003140)
 ![GO](https://img.shields.io/badge/-Go-000?&logo=Go&color=003140)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=F4DC60&color=003140)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=E34C26&color=003140)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=E34C26&color=003140)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396&color=003140)
 
 
 ### Technologies
@@ -43,18 +42,21 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React&color=003140)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=BD002E&color=003140)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron&logoColor=00B2DF&color=003140)
+![Tauri](https://img.shields.io/badge/-Tauri-000?&logo=Tauri&logoColor=00B2DF&color=003140)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=7248B6&color=003140)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb&color=003140)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql&color=003140)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=graphql&logoColor=E30090&color=003140)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&color=003140)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django&color=003140)
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot&color=003140)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&color=003140)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=003140)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009137&color=003140)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=003140)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&color=003140)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoft-azure&color=003140&logoColor=006CFF)
+![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-000?&logo=microsoft-azure&color=003140&logoColor=006CFF)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&color=003140&logoColor=FFA800)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&color=003140)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&color=003140)
 
