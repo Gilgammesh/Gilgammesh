@@ -27,8 +27,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=003140)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&color=003140)
-![GO](https://img.shields.io/badge/-Go-000?&logo=Go&color=003140)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=E34C26&color=003140)
+![GO](https://img.shields.io/badge/-Go-000?&logo=Go&color=003140)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=E34C26&color=003140)
 
 
@@ -40,6 +40,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=003140)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&color=003140)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React&color=003140)
+![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot&color=003140)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=BD002E&color=003140)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron&logoColor=00B2DF&color=003140)
 ![Tauri](https://img.shields.io/badge/-Tauri-000?&logo=Tauri&logoColor=00B2DF&color=003140)
@@ -48,7 +49,6 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql&color=003140)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=graphql&logoColor=E30090&color=003140)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&color=003140)
-![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot&color=003140)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&color=003140)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=003140)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=009137&color=003140)
