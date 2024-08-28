@@ -27,6 +27,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=003140)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&color=003140)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=003140)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=E34C26&color=003140)
 ![GO](https://img.shields.io/badge/-Go-000?&logo=Go&color=003140)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=E34C26&color=003140)
